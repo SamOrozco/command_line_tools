@@ -1,5 +1,7 @@
-```
+Just a little cli wrapper for helpful docker and other commands I use often
 
+
+```
 Usage:
    [flags]
    [command]

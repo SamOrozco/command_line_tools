@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67f967b8-923f-4c5d-833e-c198f033dd51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/orozco" beforeDir="false" />
@@ -23,6 +28,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="go" value="4" />
           <entry key="md" value="1" />
           <entry key="sh" value="1" />
@@ -31,6 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="1" />
+          <entry key="Git file" value="1" />
           <entry key="Go" value="4" />
           <entry key="Markdown" value="1" />
         </counts>
@@ -38,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="go" value="977" />
-          <entry key="md" value="25" />
+          <entry key="md" value="110" />
           <entry key="sh" value="39" />
         </counts>
       </usages-collector>
@@ -46,7 +53,7 @@
         <counts>
           <entry key="Bash" value="39" />
           <entry key="Go" value="977" />
-          <entry key="Markdown" value="25" />
+          <entry key="Markdown" value="110" />
         </counts>
       </usages-collector>
     </session>
@@ -96,8 +103,8 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="359">
-                <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <first_editor>
+                <caret column="75" selection-start-column="75" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,7 +131,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.11.2/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -277,7 +284,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547515399304" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547515626299" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -415,12 +422,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547513946664</updated>
-      <workItem from="1547513948093" duration="1448000" />
+      <workItem from="1547513948093" duration="1707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1448000" />
+    <option name="totallyTimeSpent" value="1707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-828" y="-1440" width="3440" height="1440" extended-state="0" />
@@ -431,10 +438,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24985285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24985285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SBT Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Tool Output" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="JProfiler" />
@@ -507,11 +514,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="359">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <first_editor>
+            <caret column="75" selection-start-column="75" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>
